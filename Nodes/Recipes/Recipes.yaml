@@ -2,15 +2,15 @@ Name: Recipes
 Type: RecipesCategoryFolder
 Children:
 - Name: RecipeSchema1
-  Id: g=70208a6c12c6ee8cf819794c0703d8c9
+  Id: g=14170b649c3357aca5a3a7c33f49d93b
   Type: RecipeSchema
   Children:
   - Name: Root
     Type: BaseObjectType
     Children:
-    - Name: Variable
+    - Name: Variable1
       Type: BaseDataVariableType
-      DataType: Int32
+      DataType: String
   - Class: Reference
     Target: ns=21;i=27
     Direction: Forward
@@ -65,9 +65,9 @@ Children:
       Type: PropertyType
       DataType: NodeId
   - Name: EditModel
-    Id: g=322f0ebc86993b3e3883a3cf5d160f22
+    Id: g=70c77dd76a763f2c86b393086220dccd
     Type: BaseObjectType
     Children:
-    - Name: Variable
+    - Name: Variable1
       Type: BaseDataVariableType
-      DataType: Int32
+      DataType: String

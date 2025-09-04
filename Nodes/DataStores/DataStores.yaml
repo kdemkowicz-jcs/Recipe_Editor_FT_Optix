@@ -2,7 +2,7 @@ Name: DataStores
 Type: DataStoresCategoryFolder
 Children:
 - Name: JCS_RecipeEditor
-  Id: g=cd8d6c0bb171c2e00c9a05a7c5ba4fb5
+  Id: g=22928e530ba8d7888b792c341574a6a2
   Type: SQLiteStore
   Children:
   - Name: Tables
@@ -13,29 +13,25 @@ Children:
       Children:
       - Class: Reference
         Target: ns=19;i=12
+        Direction: Forward
       - Class: Reference
         Target: ns=19;i=15
+        Direction: Forward
       - Class: Reference
         Target: ns=19;i=21
+        Direction: Forward
       - Class: Reference
         Target: ns=19;i=20
-      - Class: Reference
-        Target: ns=19;i=12
-      - Class: Reference
-        Target: ns=19;i=15
-      - Class: Reference
-        Target: ns=19;i=21
-      - Class: Reference
-        Target: ns=19;i=20
+        Direction: Forward
       - Name: Columns
         Type: BaseObjectType
         Children:
         - Name: Name
           Type: StoreColumn
           DataType: String
-        - Name: /Variable
+        - Name: /Variable1
           Type: StoreColumn
-          DataType: Int32
+          DataType: String
   - Class: Reference
     Target: ns=23;i=30
     Direction: Forward

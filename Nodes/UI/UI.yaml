@@ -249,7 +249,7 @@ Children:
   - Name: Editor
     Type: Screen
     Children:
-    - Name: RecipesEditorWidget
+    - Name: RecipesEditor1
       Type: Panel
       WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel
       Children:
@@ -972,7 +972,7 @@ Children:
             Type: BaseVariableType
             DataType: Size
             ModellingRule: Optional
-          - Name: Variable
+          - Name: Variable1
             Type: Panel
             Children:
             - Name: Height
@@ -992,7 +992,7 @@ Children:
                 Type: BaseDataVariableType
                 DataType: LocalizedText
                 ModellingRule: Optional
-                Value: {"LocaleId":"en-US","Text":"Variable"}
+                Value: {"LocaleId":"en-US","Text":"Variable1"}
               - Name: LeftMargin
                 Type: BaseVariableType
                 DataType: Size
@@ -1013,7 +1013,7 @@ Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "/Objects/Recipe_Editor/Model/Product/Variable"
+                  Value: "/Objects/Recipe_Editor/Model/Product/Variable1"
               - Name: VerticalAlignment
                 Type: BaseVariableType
                 DataType: VerticalAlignment
@@ -1024,17 +1024,17 @@ Children:
                 DataType: HorizontalAlignment
                 ModellingRule: Optional
                 Value: 1
-            - Name: SpinBox
-              Type: SpinBox
+            - Name: Textbox
+              Type: TextBox
               Children:
-              - Name: Value
+              - Name: Text
                 Type: BaseDataVariableType
-                DataType: Double
+                DataType: LocalizedText
                 Children:
                 - Name: DynamicLink
                   Type: DynamicLink
                   DataType: NodePath
-                  Value: "{RecipeSchema1}/Variable"
+                  Value: "{RecipeSchema1}/Variable1"
                   Children:
                   - Name: Mode
                     Type: BaseVariableType
@@ -1060,11 +1060,6 @@ Children:
                 DataType: Size
                 ModellingRule: Optional
                 Value: 100.0
-              - Name: Format
-                Type: BaseDataVariableType
-                DataType: String
-                ModellingRule: Optional
-                Value: "n0"
         - Name: ScrollAxesEnabled
           Type: BaseDataVariableType
           DataType: ScrollAxesEnabledEnum

@@ -2,12 +2,11 @@ Name: Model
 Type: ModelCategoryFolder
 Children:
 - Name: Product
-  Id: g=70f3b00d4006d25fb46c97d63c30b778
+  Id: g=56eceed1e760a74bad2617fe6e0af1a4
   Type: BaseObjectType
   Children:
-  - Name: Variable
-    Id: g=78d3505a389a7e6a621e6eac76e6b457
+  - Name: Variable1
+    Id: g=fc02f6129e75073755b990d769d7ab1e
     Type: BaseDataVariableType
-    DataType: Int32
-    ValueRank: OneDimension
-    ArrayDimensions: [2]
+    DataType: String
+    Value: "0"
