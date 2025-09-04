@@ -1,0 +1,12 @@
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\bin\Recipe_Editor.deps.json
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\bin\Recipe_Editor.dll
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\bin\Recipe_Editor.pdb
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\Recipe_Editor.csproj.AssemblyReference.cache
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\Recipe_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\Recipe_Editor.AssemblyInfoInputs.cache
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\Recipe_Editor.AssemblyInfo.cs
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\Recipe_Editor.csproj.CoreCompileInputs.cache
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\Recipe_Editor.dll
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\refint\Recipe_Editor.dll
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\Recipe_Editor.pdb
+C:\Users\KDemkowicz\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Recipe_Editor\ProjectFiles\NetSolution\obj\Debug\ref\Recipe_Editor.dll

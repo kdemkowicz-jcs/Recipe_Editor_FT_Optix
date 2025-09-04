@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Recipe_Editor/1.0.0": {
+        "runtime": {
+          "Recipe_Editor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recipe_Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
