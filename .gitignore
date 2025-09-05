@@ -14,3 +14,4 @@ ProjectFiles/NetSolution/Private
 ProjectFiles/NetSolution/*.references
 ProjectFiles/UserDefinedModule.xml
 !*.optixt
+ProjectFiles/database/sqlite3.exe
