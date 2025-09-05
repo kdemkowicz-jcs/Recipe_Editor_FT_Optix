@@ -90,3 +90,7 @@ Children:
   - Class: Reference
     Target: ns=19;i=59
     Direction: Forward
+  - Name: Filename
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "C:\\Users\\KDemkowicz\\Documents\\Rockwell Automation\\FactoryTalk Optix\\Projects\\Recipe_Editor\\ProjectFiles\\database\\JCS_RecipeEditor.db"
