@@ -6,7 +6,6 @@ Children:
   Type: BaseObjectType
   Children:
   - Name: Variable1
-    Id: g=fc02f6129e75073755b990d769d7ab1e
     Type: BaseDataVariableType
     DataType: String
     Value: "0"

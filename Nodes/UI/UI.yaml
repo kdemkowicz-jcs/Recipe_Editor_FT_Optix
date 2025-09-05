@@ -232,12 +232,12 @@ Children:
     Type: BaseDataVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 480.0
+    Value: 800.0
   - Name: Height
     Type: BaseDataVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 272.0
+    Value: 500.0
   - Name: Caption
     Type: BaseDataVariableType
     DataType: String
@@ -257,12 +257,12 @@ Children:
         Type: BaseVariableType
         DataType: Size
         ModellingRule: Optional
-        Value: 600.0
+        Value: 800.0
       - Name: Height
         Type: BaseVariableType
         DataType: Size
         ModellingRule: Optional
-        Value: 300.0
+        Value: 500.0
       - Name: RecipesComboBox
         Type: ComboBox
         Children:
